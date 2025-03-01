@@ -1,0 +1,12 @@
+Requisitos de Software. 
+  
+Requisitos Funcionais
+  
+  - O sistema deverá permitir a criação de novos usuários.
+  - O sistema deverá permitir o login e logout de usuários. 
+  - O sistema deverá ser de fácil acesso e compreensão.
+  
+  Requisitos Não Funcionais
+  
+  - O sistema deverá ser acessivel via dispositivo móvel.
+  - O tempo de resposta para uma requisição não deverá ultrapassar 2 segundos.
